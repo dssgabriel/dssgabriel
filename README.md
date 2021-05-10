@@ -1,15 +1,13 @@
-### Hello, world!
- 
- - Currently in my last year of B. Sc. in Computer Science at [UVSQ](https://www.uvsq.fr/licence-informatique)
- - Working on multiple projects for the last semester! Mainly TCP/IP simulation and the optimization of block ciphers
+## Hello, world!
+
+I am currently in my last year of B. Sc. in Computer Science at [UVSQ](https://www.uvsq.fr/licence-informatique).
+
+Working on two major projects for the last semester:
+- GUI app for simulating the TCP/IP protocol
+- Optimizing an attack on the 2PRESENT24 block cipher.
 
 ### Favorite Languages
-  - C / C++ (serious stuff)
+  - C/C++ (serious stuff)
   - Rust (concurrent/parallel)
   - Bash (scripting)
-  - Python (testing cool ideas)
-
-### Memes
-- I'm on Arch (btw)
-- I love Rust :)
-- I use both Vim and Emacs (shocking right?!)
+  - Python (testing ideas)
