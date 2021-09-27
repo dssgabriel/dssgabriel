@@ -1,10 +1,7 @@
-## Hello, world!
+# Gabriel Dos Santos
+## MsC student
 
-I am currently in my last year of B. Sc. in Computer Science at [UVSQ](https://www.uvsq.fr/licence-informatique).
-
-Working on two major projects for the last semester:
-- GUI app for simulating the TCP/IP protocol
-- Optimizing an attack on the 2PRESENT24 block cipher.
+Hello! I'm currently doing High Performance Computing at [Paris Sacly University](https://www.http://www.chps.uvsq.fr/).
 
 ### Favorite Languages
   - C/C++ (serious stuff)
