@@ -1,6 +1,6 @@
 ### Hello, world
 I am a graduate student in Computer Science at [University of Versailles](https://www.uvsq.fr/licence-informatique).
-Currently in my 1st year of MsC High Performance Computing and Simulation at [Paris Saclay University](http://www.chps.uvsq.fr/)
+Currently in my 1st year of MsC High Performance Computing and Simulation at [Paris Saclay University](http://www.chps.uvsq.fr/).
 
 ### Center of interests
 - Software and hardware architecture
