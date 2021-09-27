@@ -1,10 +1,11 @@
 # Gabriel Dos Santos
-## MsC student
+## MsC student in HPC
 
 Hello! I'm currently doing High Performance Computing at [Paris Sacly University](https://www.http://www.chps.uvsq.fr/).
+I'm interested in software and hardware architecture, code optimization and compilers.
 
-### Favorite Languages
-  - C/C++ (serious stuff)
-  - Rust (concurrent/parallel)
-  - Bash (scripting)
-  - Python (testing ideas)
+## Programming languages
+  - C/C++
+  - Rust
+  - Bash
+  - Python
