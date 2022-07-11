@@ -18,3 +18,8 @@ Currently in my first year of Master in High Performance Computing and Simulatio
 - Python
 - Bash
 - x86-64 (SSE4.2, AVX, AVX512)
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dssgabriel&show_icons=true&count_private=true&hide_border=true" align="center"/>
+</div>  
