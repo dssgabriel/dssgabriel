@@ -21,7 +21,9 @@ Currently in Master of High Performance Computing and Simulation at [Paris-Sacla
 - x86-64 (SSE4.2, AVX, AVX512)
 
 ---
-<div align="center">
+<a href="https://github.com/dssgabriel/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dssgabriel&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center"/>
+</a>
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dssgabriel&langs_count=8&layout=compact&theme=dracula" align="center"/>
-</div>  
+</a>  
