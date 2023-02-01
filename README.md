@@ -1,5 +1,5 @@
 ## Hey there!
-I am a graduate student in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research engineer at the Parallel and Distributed Systems laboratory (UVSQ, LI-PaRAD). I am also finishing a Msc in High Performance Computing and Simulation at [Paris-Saclay University](http://www.chps.uvsq.fr/).
+I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research engineer at the Parallel and Distributed Systems laboratory (UVSQ, LI-PaRAD). I am also finishing a MSc in _High Performance Computing and Simulation_ at [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
 > **Looking for a PhD in HPC!**
 
