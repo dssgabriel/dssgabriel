@@ -4,11 +4,11 @@ I am a graduate student in _Computer Science_ from [University of Versailles](ht
 > **Looking for a PhD in HPC!**
 
 ### Currently working on
-- Micro-benchmarking of Arm SVE arithmetic instructions on Neoverse V1 micro-architecture (research at LI-PaRAD, UVSQ)
-- GPU programming for compute-intensive algorithms (CUDA, SYCL, offloading with OpenMP/OpenACC)
-- A lightweight MPI profiler written in Rust, designed for high-performance tracing with almost-zero overhead
+- Micro-benchmarking Arm SVE arithmetic instructions on Neoverse V1 micro-architecture (research at LI-PaRAD, UVSQ)
+- Learning GPU programming for highly parallel, compute-intensive algorithms (CUDA, SYCL, offloading with OpenMP/OpenACC)
+- A lightweight MPI profiler written in Rust, designed for high performance tracing with almost zero overhead
 
-### Center of interests
+### Centers of interest
 - Design of modern CPU and GPU architectures
 - Code optimization and micro-benchmarking 
 - Massively parallel/concurrent programming
