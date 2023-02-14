@@ -1,7 +1,7 @@
 ## Hey there!
 I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research engineer at the Parallel and Distributed Systems laboratory (UVSQ, LI-PaRAD). I am also finishing a MSc in _High Performance Computing and Simulation_ at [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
-> **Looking for a PhD in HPC!**
+> **Looking for a PhD in HPC!** (especially in all-things low-level 🤓)
 
 ### Currently working on
 - Micro-benchmarking Arm SVE arithmetic instructions on Neoverse V1 micro-architecture (research at LI-PaRAD, UVSQ)
