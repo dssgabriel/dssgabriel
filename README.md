@@ -25,9 +25,9 @@ I am a graduate student in _Computer Science_ from [University of Versailles](ht
 ---
 <div align="center">
   <a href="https://github.com/dssgabriel/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dssgabriel&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dssgabriel&show_icons=true&count_private=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" align="center"/>
   </a>
   <a href="https://github.com/dssgabriel/top-langs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dssgabriel&langs_count=8&layout=compact&theme=dracula" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dssgabriel&langs_count=8&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" align="center"/>
   </a>
 </div>
