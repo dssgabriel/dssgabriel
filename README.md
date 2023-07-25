@@ -1,26 +1,24 @@
 ## Hey there!
-I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research engineer at the Parallel and Distributed Systems laboratory (UVSQ, LI-PaRAD). I am also finishing a MSc in _High Performance Computing and Simulation_ at [Paris-Saclay University](http://www.chps.uvsq.fr/).
+I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research intern at the French Alternative Energies and Atomic Energy Commission (CEA). I am also finishing an M.Sc. in _High Performance Computing and Simulation_ at [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
 > **Looking for a PhD in HPC!** (especially in all-things low-level 🤓)
 
 ### Currently working on
-- Micro-benchmarking Arm SVE arithmetic instructions on Neoverse V1 micro-architecture (research at LI-PaRAD, UVSQ)
-- Learning GPU programming for highly parallel, compute-intensive algorithms (CUDA, SYCL, offloading with OpenMP/OpenACC)
-- A lightweight MPI profiler written in Rust, designed for high performance tracing with almost zero overhead
+- Exploring Rust capabilities for general-purpose GPU computing (research at CEA)
+- Generating micro-benchmarks for Arm SVE arithmetic instructions (research at LI-PaRAD, UVSQ)
 
 ### Centers of interest
 - Design of modern CPU and GPU architectures
 - Code optimization and micro-benchmarking 
-- Massively parallel/concurrent programming
-- Software engineering
+- Massively parallel algorithms
+- Software engineering and best code practices
 
 ### Programming languages
 - C/C++
 - Rust
 - Python
 - Bash
-- AArch64 (NEON, SVE)
-- x86-64 (SSE4.2, AVX, AVX2, AVX-512)
+- Assembly (AArch64 and x86-64, especially vector instructions sets)
 
 ---
 <div align="center">
