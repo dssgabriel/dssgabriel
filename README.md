@@ -1,24 +1,26 @@
 ## Hey there!
-I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) and HPC research intern at the French Alternative Energies and Atomic Energy Commission (CEA). I am also finishing an M.Sc. in _High Performance Computing and Simulation_ at [Paris-Saclay University](http://www.chps.uvsq.fr/).
+I have a B.Sc. in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique) and a M.Sc. in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
-> **Looking for a PhD in HPC!** (especially in all-things low-level 🤓)
+I will be starting a PhD at the French Atomic Energy and alternative energies Commission (CEA) in December on the subject of "Data structures and memory management for heterogeneous architectures in modern HPC systems".
 
 ### Currently working on
 - Exploring Rust capabilities for general-purpose GPU computing (research at CEA)
 - Generating micro-benchmarks for Arm SVE arithmetic instructions (research at LI-PaRAD, UVSQ)
+- Learning the Zig programming language
 
 ### Centers of interest
 - Design of modern CPU and GPU architectures
-- Code optimization and micro-benchmarking 
+- Code optimization
+- (micro) Benchmarking 
 - Massively parallel algorithms
-- Software engineering and best code practices
+- Software engineering
 
 ### Programming languages
-- C/C++
+- C and C++
 - Rust
 - Python
 - Bash
-- Assembly (AArch64 and x86-64, especially vector instructions sets)
+- Assembly (AArch64 and x86-64, especially vector ISA extensions)
 
 ---
 <div align="center">
