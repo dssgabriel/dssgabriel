@@ -1,18 +1,15 @@
 ## Hey there!
-I have a B.Sc. in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique) and a M.Sc. in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/).
+I am Gabriel and I have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique) and an MSc in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
-I will be starting a PhD at the French Atomic Energy and alternative energies Commission (CEA) in December on the subject of "Data structures and memory management for heterogeneous architectures in modern HPC systems".
+I will be starting a PhD at the French Atomic Energy and alternative energies Commission (CEA) in February on the subject of "Data structures and memory management for heterogeneous architectures in exascale-class HPC systems".
 
 ### Currently working on
-- Exploring Rust capabilities for general-purpose GPU computing (research at CEA)
-- Generating micro-benchmarks for Arm SVE arithmetic instructions (research at LI-PaRAD, UVSQ)
+- Automatic micro-benchmark generation for measuring latency, throughput, port usage and µops count for AArch64 instructions (research at LI-PaRAD, ISTY/UVSQ)
 - Learning the Zig programming language
 
 ### Centers of interest
 - Design of modern CPU and GPU architectures
-- Code optimization
-- (micro) Benchmarking 
-- Massively parallel algorithms
+- Code optimization & benchmarking
 - Software engineering
 
 ### Programming languages
@@ -20,7 +17,7 @@ I will be starting a PhD at the French Atomic Energy and alternative energies Co
 - Rust
 - Python
 - Bash
-- Assembly (AArch64 and x86-64, especially vector ISA extensions)
+- Assembly: AArch64 and x86-64, (more specifically SIMD ISA extensions)
 
 ---
 <div align="center">
