@@ -1,23 +1,27 @@
 ## Hey there!
-I am Gabriel and I have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique) and an MSc in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
-I will be starting a PhD at the French Atomic Energy and alternative energies Commission (CEA) in February on the subject of "Data structures and memory management for heterogeneous architectures in exascale-class HPC systems".
+My name is Gabriel, and I am a PhD student at CEA (French Atomic Energy and Alternative Energies Commission). The subject of my research is the management of data structure representations in heterogeneous architectures for exascale-class HPC workloads.
+
+I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/), and I also have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique).
 
 ### Currently working on
-- Automatic micro-benchmark generation for measuring latency, throughput, port usage and µops count for AArch64 instructions (research at LI-PaRAD, ISTY/UVSQ)
+- Exploring Kokkos + MPI interoperability (research at CEA)
+- Optimizing C standard library's string routines with Arm SVE implementations (research at LI-PaRAD, ISTY/UVSQ)
 - Learning the Zig programming language
 
 ### Centers of interest
+- Thinking in assembly
 - Design of modern CPU and GPU architectures
 - Code optimization & benchmarking
-- Software engineering
+- Software engineering best practices
 
 ### Programming languages
-- C and C++
+- C
+- C++
 - Rust
 - Python
 - Bash
-- Assembly: AArch64 and x86-64, (more specifically SIMD ISA extensions)
+- Assembly: AArch64 and x86-64 SIMD ISA extensions
 
 ---
 <div align="center">
