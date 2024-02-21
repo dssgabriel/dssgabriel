@@ -1,27 +1,24 @@
 ## Hey there!
 
-My name is Gabriel, and I am a PhD student at CEA (French Atomic Energy and Alternative Energies Commission). The subject of my research is the management of data structure representations in heterogeneous architectures for exascale-class HPC workloads.
+I am a PhD student at CEA (French Atomic Energy and Alternative Energies Commission). The subject of my research is the management of data structure representations in heterogeneous architectures for exascale-class HPC workloads.
 
 I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/), and I also have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique).
 
 ### Currently working on
-- Exploring Kokkos + MPI interoperability (research at CEA)
-- Optimizing C standard library's string routines with Arm SVE implementations (research at LI-PaRAD, ISTY/UVSQ)
-- Learning the Zig programming language
+- Exploring Kokkos + MPI interoperability
+- Optimizing C standard library's string routines with Arm SVE implementations
+- Getting better at C++ template metaprogramming
 
 ### Centers of interest
-- Thinking in assembly
-- Design of modern CPU and GPU architectures
+- CPU-GPU architectures
 - Code optimization & benchmarking
 - Software engineering best practices
 
 ### Programming languages
-- C
-- C++
+- C and C++
 - Rust
 - Python
-- Bash
-- Assembly: AArch64 and x86-64 SIMD ISA extensions
+- Assembly (AArch64 and x86-64 SIMD ISA extensions)
 
 ---
 <div align="center">
