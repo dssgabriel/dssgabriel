@@ -1,13 +1,13 @@
-## Hey there!
+## Hello there!
 
-I am a PhD student at CEA — the French Atomic Energy and Alternative Energies Commission. My research focuses on managing data structure representations in heterogeneous architectures for exascale-class HPC workloads.
+I am a PhD student at CEA — the French Atomic Energy and Alternative Energies Commission. My research focuses on managing data structure representations within heterogeneous architectures for exascale-class HPC workloads.
 
-I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay University](http://www.chps.uvsq.fr/), and I also have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique).
+I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay University](https://www.chps.uvsq.fr/), and I also have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique).
 
 ### Currently working on
-- Exploring Kokkos + MPI interoperability
-- Optimizing C standard library string routines with Arm SVE implementations
-- Improving at C++ template metaprogramming
+- Enabling Kokkos + MPI interoperability through [kokkos-comm](https://www.github.com/kokkos/kokkos-comm.git)
+- Optimizing C standard library string routines for AArch64 architectures using Arm SVE implementations
+- Improving my C++ template metaprogramming skills
 
 ### Centers of interest
 - Heterogeneous CPU-GPU architectures
@@ -22,10 +22,10 @@ I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay Univ
 
 ---
 <div align="center">
-  <a href="https://github.com/dssgabriel/github-readme-stats">
+  <a href="dssgabriel's github stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dssgabriel&show_icons=true&count_private=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" align="center"/>
   </a>
-  <a href="https://github.com/dssgabriel/top-langs">
+  <a href="dssgabriel's top languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dssgabriel&langs_count=8&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" align="center"/>
   </a>
 </div>
