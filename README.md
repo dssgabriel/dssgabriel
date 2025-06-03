@@ -1,24 +1,32 @@
 ## Hello there!
 
-I am a PhD student at CEA — the French Atomic Energy and Alternative Energies Commission. My research focuses on managing data structure representations within heterogeneous architectures for exascale-class HPC workloads.
+I am a PhD candidate at CEA — the French Atomic Energy and Alternative Energies Commission. My research focuses on managing data structure representations within heterogeneous architectures for exascale-class HPC workloads.
 
 I hold an MSc in High Performance Computing & Simulation from [Paris-Saclay University](https://www.chps.uvsq.fr/), and I also have a BSc in Computer Science from [University of Versailles](https://www.uvsq.fr/licence-informatique).
 
 ### Currently working on
+- Tiled layouts for C++23 `std::mdspan`
 - Kokkos + MPI/NCCL interoperability within the [kokkos-comm](https://www.github.com/kokkos/kokkos-comm.git) project
-- Optimizing C standard string library functions for AArch64 architectures using SVE implementations
-- Improving my C++ template metaprogramming skills
 
 ### Centers of interest
-- Heterogeneous CPU-GPU architectures
-- Performance optimization & micro-benchmarking
+- CPU & GPU microarchitecture design
+- Performance optimization & micro-benchmarking for heterogeneous systems
+- High-performance data structures & algorithms
+- Memory layout & management
 - Software engineering best practices
 
 ### Programming languages
 - C and C++
 - Rust
 - Python
-- AArch64 and x86-64 SIMD ISA extensions
+- AArch64, x86-64 and a bit of RV64 (especially SIMD ISA extensions)
+
+### Frameworks
+- Kokkos
+- MPI
+- NCCL
+- CUDA/HIP
+- OpenMP
 
 ---
 <div align="center">
